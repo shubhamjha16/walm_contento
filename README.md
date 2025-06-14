@@ -1,4 +1,4 @@
-# Project Title: Walm's Contento
+# Walm's Contento
 
 ## Overview
 
